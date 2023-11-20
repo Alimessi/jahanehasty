@@ -1,0 +1,21 @@
+body{
+    background-image: url(../pic/[fpdl.in]_hand-hold-collection-balls-sports-balls-hand-drawn-sketch-vector-background_460848-14998_full.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+header{
+    background-color: rgba(0, 0, 255, 0.555);
+}
+footer{
+color: rgba(240, 248, 255, 0);
+}
+footer:hover{
+    text-align: center;
+    color: rgb(13, 14, 4);
+    transition: 5s;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+}
